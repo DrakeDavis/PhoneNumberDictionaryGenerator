@@ -9,3 +9,7 @@ To minimize size of the file only exact Area Codes are used, and NA Phone Number
 Full runtime is <1 hour (system specific) and full generated list is 21GB
 
 To alleviate time or memory concerns - you can generate only specific states by deleting/commenting uneeded lines from AreaCodes.txt
+
+![List Screenshot](https://imgur.com/qYLdjIV.png)
+
+
